@@ -10,4 +10,5 @@ class MainActivity : AppCompatActivity() {
     }
 
     //gosto bastante
+    //deixei de gostar
 }
